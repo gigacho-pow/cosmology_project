@@ -1,5 +1,6 @@
 {
-  "source":"sdss_galaxies_raw.csv",
+  "source":"..\/data\/raw\/galaxy\/sdss_galaxies_raw.csv",
+  "output":"processed\/galaxies_processed.csv.gz",
   "z_min":0.03,
   "z_max":0.2,
   "ra_min":120,
@@ -23,7 +24,5 @@
     "zWarning",
     "class"
   ],
-  "full_rows":521217,
-  "sample_rows":10000,
-  "seed":42
+  "rows":494502
 }
