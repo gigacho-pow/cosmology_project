@@ -1,0 +1,15 @@
+data/raw/
+backup/
+DataRelease-main/
+
+**/processed/*.csv
+**/processed/*.npz
+**/processed/*.npy
+
+**/results/*.npz
+**/results/*.npy
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,55 @@
+{
+  "recorded_at_utc": "2026-11-06T02:08:45.009783+00:00",
+  "note": "기존 로컬 파일을 검사했다. URL은 기존 다운로드 코드의 출처이며, 실제 다운로드 시각·원격 커밋·원격 파일과의 일치는 확인하지 않았다.",
+  "files": [
+    {
+      "path": "data/Pantheon+SH0ES.dat",
+      "size_bytes": 579283,
+      "sha256": "1cb0fc379ef066afdc2ffd1857681cc478024570d8a3eba284fb645775198cf8",
+      "source_url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES.dat",
+      "source_commit": null,
+      "downloaded_at": null
+    },
+    {
+      "path": "data/Pantheon+SH0ES_STATONLY.cov",
+      "size_bytes": 31827416,
+      "sha256": "9f177129a332735d3637affd20054080d5260815f3ca0809120c05b2c902297f",
+      "source_url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STATONLY.cov",
+      "source_commit": null,
+      "downloaded_at": null
+    },
+    {
+      "path": "data/Pantheon+SH0ES_STAT+SYS.cov",
+      "size_bytes": 33284960,
+      "sha256": "abf806d966485e64afdb359c87bffc0ecc00d05eff0a31ced66f247385df0fdc",
+      "source_url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STAT+SYS.cov",
+      "source_commit": null,
+      "downloaded_at": null
+    },
+    {
+      "path": "data/Pantheon_README.txt",
+      "size_bytes": 4056,
+      "sha256": "e2b0d262757f01c1794a938c78d32600a21e289b2a0320e5c660c4c6fc9aa87e",
+      "source_url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR/README",
+      "source_commit": null,
+      "downloaded_at": null
+    },
+    {
+      "path": "data/bao/desi_gaussian_bao_ALL_GCcomb_mean.txt",
+      "size_bytes": 472,
+      "sha256": "9ac154ab583ce759c0f7eef3c978c7c70a6ead2d18774caceadf1a350a640585",
+      "source_url": "https://raw.githubusercontent.com/CobayaSampler/bao_data/master/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt",
+      "source_commit": null,
+      "downloaded_at": null
+    },
+    {
+      "path": "data/bao/desi_gaussian_bao_ALL_GCcomb_cov.txt",
+      "size_bytes": 2547,
+      "sha256": "252a143274c8a07c78694c119617d36594f6d7965d00319ca611c6ffb886e509",
+      "source_url": "https://raw.githubusercontent.com/CobayaSampler/bao_data/master/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_cov.txt",
+      "source_commit": null,
+      "downloaded_at": null
+    }
+  ],
+  "missing_files": []
+}

@@ -1,0 +1,12 @@
+{
+  "signature": {
+    "source_sha256": "772de89d435e2fcc23b4142dca5bc2cae6fb699520bb30b35dd497f33c4d53d7",
+    "settings": {
+      "z_min": 0.01,
+      "z_max": 0.2,
+      "version": 1
+    }
+  },
+  "raw_rows": 500000,
+  "selected_rows": 499997
+}

@@ -1,0 +1,16 @@
+{
+  "recorded_at_utc": "2026-11-06T02:08:45.009783+00:00",
+  "python": "3.14.3 (v3.14.3:323c59a5e34, Feb  3 2026, 11:41:37) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "executable": "/Library/Frameworks/Python.framework/Versions/3.14/bin/python3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "packages": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.2",
+    "matplotlib": "3.10.8",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "jupyterlab": null,
+    "ipykernel": "7.4.0"
+  },
+  "note": "이 명령을 실행한 인터프리터의 환경이며 기존 노트북 커널과 다를 수 있다."
+}
