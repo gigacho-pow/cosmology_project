@@ -1,0 +1,2 @@
+model,late_data,prior,calibration,samples
+flat LCDM,SN + BAO,uniform Omega_m and H0rd within saved grid,Planck TTTEEE+lowl+lowE marginal rd posterior,100000
