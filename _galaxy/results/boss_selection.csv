@@ -1,0 +1,3 @@
+catalog,raw_rows,selected_rows,z_min,z_max,keep_probability
+galaxy,618806,568776,0.43,0.7,1.0
+random,32151741,2959170,0.43,0.7,0.1
